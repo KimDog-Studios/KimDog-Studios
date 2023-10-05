@@ -1,7 +1,7 @@
 
 # 🏄‍♂️ KimDog
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Developer`**
 
 I'm an part time developer.
 ---
@@ -19,7 +19,7 @@ I'm an part time developer.
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![KimDog's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdog-studios&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
