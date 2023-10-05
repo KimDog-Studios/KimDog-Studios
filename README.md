@@ -1,5 +1,8 @@
+### 📊 Stats
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimDog-Studios&show_icons=true&theme=tokyonight" />
+</a></p>
 
-# 🏄‍♂️ KimDog
 
 **`Developer`**
 
@@ -16,9 +19,3 @@ I'm an part time developer.
 
 #
 #
-
-### 📊 Stats
-
-![KimDog's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdog-studios&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
