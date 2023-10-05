@@ -6,4 +6,4 @@
 ### 🧰 Languages
 ![🧰 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDog-Studios&hide_progress=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDog-Studiosa&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimDog-Studiosa&repo=github-readme-stats)](https://github.com/KimDog-Studios/github-readme)
