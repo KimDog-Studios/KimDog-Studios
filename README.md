@@ -4,4 +4,4 @@
 </a></p>
 
 ### 🧰 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDog-Studios&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]<p align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=KimDog-Studios&layout=donut)](https://github.com/anuraghazra/github-readme-stats)</p>
