@@ -1,0 +1,29 @@
+[
+  {
+    "name": "KimDog Casual",
+    "category": "Casual",
+    "map": "Dust2",
+    "thumbnail": "https://raw.githubusercontent.com/youruser/yourrepo/main/thumbs/dust2.jpg",
+    "ip": "203.0.113.1:27015",
+    "players": "12/32",
+    "description": "Casual community server with friendly players."
+  },
+  {
+    "name": "KimDog Competitive",
+    "category": "Competitive",
+    "map": "Mirage",
+    "thumbnail": "https://raw.githubusercontent.com/youruser/yourrepo/main/thumbs/mirage.jpg",
+    "ip": "203.0.113.2:27015",
+    "players": "28/32",
+    "description": "Ranked-style competitive matches."
+  },
+  {
+    "name": "KimDog Surf",
+    "category": "Surf",
+    "map": "surf_utopia",
+    "thumbnail": "https://raw.githubusercontent.com/youruser/yourrepo/main/thumbs/surf_utopia.jpg",
+    "ip": "203.0.113.3:27015",
+    "players": "8/16",
+    "description": "Surf maps and chill community."
+  }
+]
